@@ -141,3 +141,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 careers.hotjar.com
+0.0.0.0 events.hotjar.io
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
