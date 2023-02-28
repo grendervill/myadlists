@@ -223,3 +223,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 business-api.tiktok.com
