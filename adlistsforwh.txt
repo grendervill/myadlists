@@ -53,7 +53,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 upload.luckyorange.net
 0.0.0.0 cs.luckyorange.net
 0.0.0.0 settings.luckyorange.net
-0.0.0.0 stats.wp.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 api.bugsnag.com
